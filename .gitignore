@@ -1,0 +1,8 @@
+# Node modules
+credits/
+
+# n8n local files
+.n8n/
+
+# Env files
+.env
