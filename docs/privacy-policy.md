@@ -1,8 +1,4 @@
 
----
-
-## **📄 privacy-policy.md**
-```markdown
 # Privacy Policy
 
 We respect your privacy. This Facebook Messenger bot only collects the information you send in messages to our Page, such as your name and message content.
